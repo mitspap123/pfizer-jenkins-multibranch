@@ -1,1 +1,1 @@
-# pfizer-jenkins-multibranch
+# pfizer-jenkins-pipeline-java
